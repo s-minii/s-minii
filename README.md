@@ -7,9 +7,6 @@ I've been trying to be a web backend developer since 2021.
 I like Java language and Spring framework, <br>
 I am also interested in DB and testing.
 
-I hope you watch me grow as a developer.
-<br><br>
-Thank you to everyone who supports me, and I hope your day is happy.
 <div align="left">
 
 ### 💻 Languages & Stack
